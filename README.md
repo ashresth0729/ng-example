@@ -1,6 +1,8 @@
 # NgExample
 This is a demonstration repository that goes along with a series of blogs. The purpose of this repository is to provide a variety of examples of Angular's functionality. The examples exist in their own modules within the application. To view them in action, build and run the application. 
 
+added for etesting puporse
+
 ## Building/Running
 ### Web
 1. npm run start
